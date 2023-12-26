@@ -1,0 +1,5 @@
+            - name: CodeSee Detect Languages
+  # You may pin to the exact commit or the version.
+  # uses: Codesee-io/codesee-detect-languages-action@b738594b054c087895d4f8bf96769f5747da0dc8
+  uses: Codesee-io/codesee-detect-languages-action@v1
+          
